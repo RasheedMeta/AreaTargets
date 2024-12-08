@@ -3,7 +3,7 @@
     "joes": {
       "xmlFileUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/xml/joes.xml",
       "datFileUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/dat/joes.dat",
-      "modelBundleUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/models/mynewbundles.bundle",
+      "modelBundleUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/models/joes",
       "transform": {
         "position": { "x": 2.492, "y": -0.172, "z": -0.414 },
         "rotation": { "x": 0.1920598, "y": 0.7227337, "z": 0.1250462, "w": 0.6520219 },
