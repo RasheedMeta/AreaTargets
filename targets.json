@@ -4,7 +4,7 @@
         "TargetName": "centerPillar",
         "XmlFileUrl": "https://mymetaverse-7cee4.web.app/AreaTargets/xml/centerPillar.xml",
         "DatFileUrl": "https://mymetaverse-7cee4.web.app/AreaTargets/dat/centerPillar.dat",
-        "ModelBundleUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/models/mynewbundles.bundle",
+        "ModelBundleUrl": "https://mymetaverse-7cee4.web.app/AreaTargets/models/mynewbundles",
         "ModelAssetName": "Coin"
     }
 ]
