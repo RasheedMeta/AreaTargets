@@ -5,7 +5,7 @@
         "xmlFileUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/xml/joes.xml",
       "datFileUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/dat/joes.dat",
        "modelBundleUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/models/joes",
-        "ModelAssetName": "Coin
+        "ModelAssetName": "Coin"
     },
     {
         "DatasetName": "centerPillar",
