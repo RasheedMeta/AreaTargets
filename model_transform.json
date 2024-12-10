@@ -1,19 +1,18 @@
 [
-
     {
         "DatasetName": "centerPillar",
         "TargetName": "centerPillar",
-       "xmlFileUrl": "https://drive.google.com/file/d/1TU6BXUagIWv68KIFwsIET2iDrZIO2hY4/view?usp=sharing",
-      "datFileUrl": "https://drive.google.com/file/d/1zHBUzE3gnHTI0mX6LuDb3TVLSe5Pjoy3/view?usp=sharing",
-      "modelBundleUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/models/mynewbundles.bundle",
+        "xmlFileUrl": "https://drive.google.com/uc?export=download&id=1TU6BXUagIWv68KIFwsIET2iDrZIO2hY4",
+        "datFileUrl": "https://drive.google.com/uc?export=download&id=1zHBUzE3gnHTI0mX6LuDb3TVLSe5Pjoy3",
+        "modelBundleUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/models/mynewbundles.bundle",
         "ModelAssetName": "Coin"
     },
-     {
+    {
         "DatasetName": "centerPillar",
         "TargetName": "centerPillar",
-       "xmlFileUrl": "https://drive.google.com/file/d/1TU6BXUagIWv68KIFwsIET2iDrZIO2hY4/view?usp=sharing",
-      "datFileUrl": "https://drive.google.com/file/d/1zHBUzE3gnHTI0mX6LuDb3TVLSe5Pjoy3/view?usp=sharing",
-      "modelBundleUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/models/mynewbundles.bundle",
+        "xmlFileUrl": "https://drive.google.com/uc?export=download&id=1TU6BXUagIWv68KIFwsIET2iDrZIO2hY4",
+        "datFileUrl": "https://drive.google.com/uc?export=download&id=1zHBUzE3gnHTI0mX6LuDb3TVLSe5Pjoy3",
+        "modelBundleUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/models/mynewbundles.bundle",
         "ModelAssetName": "Coin"
     }
 ]
