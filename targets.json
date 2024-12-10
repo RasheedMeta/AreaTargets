@@ -2,8 +2,8 @@
     {
         "DatasetName": "centerPillar",
         "TargetName": "centerPillar",
-        "XmlFileUrl": "https://drive.google.com/uc?export=download&id=1TU6BXUagIWv68KIFwsIET2iDrZIO2hY4",
-        "DatFileUrl": "https://drive.google.com/uc?export=download&id=1zHBUzE3gnHTI0mX6LuDb3TVLSe5Pjoy3",
+        "XmlFileUrl": "https://mymetaverse-7cee4.web.app/AreaTargets/xml/centerPillar.xml",
+        "DatFileUrl": "https://mymetaverse-7cee4.web.app/AreaTargets/dat/centerPillar.dat",
         "ModelBundleUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/models/mynewbundles.bundle",
         "ModelAssetName": "Coin"
     }
