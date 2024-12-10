@@ -1,19 +1,18 @@
 [
-
     {
         "DatasetName": "centerPillar",
         "TargetName": "centerPillar",
-       "xmlFileUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/xml/centerPillar.xml",
-      "datFileUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/dat/centerPillar.dat",
-      "modelBundleUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/models/mynewbundles.bundle",
+        "XmlFileUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/xml/centerPillar.xml",
+        "DatFileUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/dat/centerPillar.dat",
+        "ModelBundleUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/models/mynewbundles.bundle",
         "ModelAssetName": "Coin"
     },
-        {
+    {
         "DatasetName": "joes",
         "TargetName": "joes",
-        "xmlFileUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/xml/joes.xml",
-      "datFileUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/dat/joes.dat",
-      "modelBundleUrl": "https://github.com/RasheedMeta/AreaTargets/raw/refs/heads/main/models/mynewbundles.bundle",
+        "XmlFileUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/xml/joes.xml",
+        "DatFileUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/dat/joes.dat",
+        "ModelBundleUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/models/mynewbundles.bundle",
         "ModelAssetName": "Coin"
     }
 ]
