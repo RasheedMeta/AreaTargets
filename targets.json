@@ -5,7 +5,7 @@
         "XmlFileUrl": "https://mymetaverse-7cee4.web.app/AreaTargets/xml/centerPillar.xml",
         "DatFileUrl": "https://mymetaverse-7cee4.web.app/AreaTargets/dat/centerPillar.dat",
         "ModelBundleUrl": "https://mymetaverse-7cee4.web.app/AreaTargets/models/mynewbundles",
-        "ModelAssetName": "Coin"
+        "ModelAssetName": "Coin",
          "ModelTransform": {
             "Position": { "x": 2.492, "y": -0.172, "z": -0.414 },
             "Rotation": { "x": 0.1920598, "y": 0.7227337, "z": 0.1250462, "w": 0.6520219 },
