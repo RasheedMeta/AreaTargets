@@ -2,7 +2,7 @@
     {
         "DatasetName": "centerPillar",
         "TargetName": "centerPillar",
-        "XmlFileUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/xml/centerPillar.xml",
+        "XmlFileUrl": "https://github.com/RasheedMeta/AreaTargets/blob/main/xml/centerPillar.xml",
         "DatFileUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/dat/centerPillar.dat",
         "ModelBundleUrl": "https://raw.githubusercontent.com/RasheedMeta/AreaTargets/main/models/mynewbundles.bundle",
         "ModelAssetName": "Coin"
